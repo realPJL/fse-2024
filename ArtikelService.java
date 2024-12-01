@@ -1,3 +1,5 @@
+package inventarverwaltung.service;
+
 import inventarverwaltung.basisklasse.Artikel;
 import inventarverwaltung.config.Datenbankanbindung;
 
