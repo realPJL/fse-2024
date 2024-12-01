@@ -1,0 +1,5 @@
+# Klassendateien ignorieren
+.class
+
+# DB Datei
+.DS_Store
